@@ -1,6 +1,7 @@
-from extract import extract_csv
-from transform import limpar_clientes, limpar_produtos, limpar_pedidos
-from load import save_processed
+from etl.extract import extract_csv
+from etl.transform import limpar_clientes, limpar_produtos, limpar_pedidos
+from etl.load import insert_dataframe
+from etl.fato_vendas import criar_fato_vendas
 
 def run_pipeline():
 
@@ -8,13 +9,15 @@ def run_pipeline():
     produtos = extract_csv("dataset/raw/produtos.csv")
     pedidos = extract_csv("dataset/raw/pedidos.csv")
 
-    clientes_clean = limpar_clientes(clientes)
-    produtos_clean = limpar_produtos(produtos)
-    pedidos_clean = limpar_pedidos(pedidos)
+    clientes = limpar_clientes(clientes)
+    produtos = limpar_produtos(produtos)
+    pedidos = limpar_pedidos(pedidos)
 
-    save_processed(clientes_clean, "clientes")
-    save_processed(produtos_clean, "produtos")
-    save_processed(pedidos_clean, "pedidos")
+    insert_dataframe(clientes, "dim_cliente")
+    insert_dataframe(produtos, "dim_produto")
+
+    fato = criar_fato_vendas(pedidos, produtos)
+    insert_dataframe(fato, "fato_vendas")
 
     print("Pipeline executado com sucesso!")
 
