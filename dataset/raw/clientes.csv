@@ -1,0 +1,101 @@
+cliente_id,nome,idade,cidade,estado,data_cadastro
+1,Brandon Davis,33,West George,MH,2026-03-08
+2,Ashley Watson,19,Jamesside,IL,2026-03-16
+3,Shannon Foster,68,Christinabury,MH,2026-03-01
+4,Lauren Munoz,55,South Nathaniel,CA,2026-01-27
+5,William Trevino,39,New Carl,AL,2026-01-12
+6,Robert Webster,26,North Christophermouth,ME,2026-02-23
+7,Nathaniel Rosales,36,Lake Sarah,IA,2026-04-02
+8,David Stanley,46,Alexandraborough,WY,2026-04-09
+9,Deborah Johnson,37,Franklinhaven,DE,2026-03-06
+10,Jeffrey Fernandez,54,Philipberg,PR,2026-04-23
+11,Lori Rose,39,Leebury,IA,2026-05-07
+12,Penny Ramos,29,North Nicholas,NM,2026-05-05
+13,Michelle Martin,69,Fernandezfort,GA,2026-01-05
+14,Tara Hill,49,Allisonfurt,MP,2026-02-10
+15,Denise Vaughan,39,Lake Gregory,WY,2026-06-11
+16,James Simpson,22,Vincenthaven,FM,2026-06-19
+17,Kathryn Mason,27,Lake Kenneth,PA,2026-04-07
+18,Steven Fry,64,Williamsside,MP,2026-05-18
+19,Lisa Murphy,35,North Tamiport,AK,2026-03-08
+20,Nina Bowen,50,Stephaniestad,RI,2026-01-24
+21,Carolyn Blackburn,33,Baileymouth,MO,2026-06-23
+22,Larry Davenport,38,Nicholaston,OH,2026-05-17
+23,Sarah Hodge,62,West Justinfort,NY,2026-06-08
+24,Samuel Lowe,58,Port Nancy,WV,2026-03-31
+25,Ann Bass,64,Keithmouth,AL,2026-01-07
+26,Daisy Rivera,53,West Cheryl,OK,2026-01-29
+27,Jack Wright,42,Wrightton,NY,2026-05-14
+28,Bobby Flynn,61,Port Timothy,VA,2026-05-07
+29,Brandon Cox,38,West Juanmouth,DE,2026-06-11
+30,Dawn Soto,43,Bryanview,MN,2026-06-20
+31,Julie Phillips,48,Laurenland,WY,2026-03-05
+32,Dr. Kyle Silva,37,South Lindsay,NV,2026-03-03
+33,Brianna Evans,57,Howardburgh,OK,2026-04-21
+34,Kathy Alvarez,19,West Derrickfurt,UT,2026-03-22
+35,Anita Rios,26,Edwardsborough,IN,2026-02-22
+36,Denise Taylor,40,Thompsonfurt,MS,2026-01-15
+37,Jacob Lara,67,East Todd,GA,2026-03-07
+38,Jennifer Williamson,21,Cookton,MI,2026-06-30
+39,Kelsey Wolfe,21,Brookefurt,MO,2026-06-10
+40,Greg Pena,31,New Angelaborough,RI,2026-05-13
+41,Dr. Jennifer Acosta,42,Caitlinland,NY,2026-01-25
+42,Craig Harrison,63,Lake Thomas,NC,2026-03-29
+43,Jeffrey Cruz,64,South Maryshire,MP,2026-01-21
+44,Kayla Boyd,60,Lake Phillipmouth,SD,2026-02-24
+45,Gregory Johnson,63,Schmidttown,WA,2026-04-06
+46,Susan Bartlett,41,Morrismouth,AZ,2026-03-14
+47,Jason Carroll,51,Port Shelbyton,ME,2026-01-16
+48,James Stevens,36,New Carlyland,MS,2026-04-02
+49,Michael Butler,66,Caldwellport,CT,2026-03-18
+50,Jamie Rubio,32,Port Sara,WI,2026-04-20
+51,Timothy Barber,39,Lake Daniellemouth,AK,2026-01-06
+52,Robert Gibson,60,South Hannahton,PA,2026-03-02
+53,Christine Hamilton,52,Lisaton,NC,2026-03-19
+54,Justin Hoffman,63,North Christopher,NC,2026-04-03
+55,Jason Anderson PhD,36,Dwaynebury,ID,2026-03-05
+56,Miranda Jordan,24,East Cynthiashire,ND,2026-02-05
+57,Robert Hines,53,East Thomas,AR,2026-03-21
+58,Dean Walsh,37,Wilsonstad,PA,2026-06-05
+59,Natalie Spencer,51,Desireeborough,WV,2026-02-02
+60,Kimberly Gibson,19,South Erin,KS,2026-04-21
+61,Rachel Reynolds,52,West Annette,OH,2026-01-31
+62,Michael Taylor,67,New Antonio,DE,2026-04-29
+63,Theresa Ward,37,East Daltonland,KS,2026-01-05
+64,Tristan Pearson Jr.,59,Bensonland,NJ,2026-02-28
+65,Samuel George,28,East James,NM,2026-06-23
+66,Mary Brown,49,West Michaelfort,VA,2026-05-29
+67,Patricia Turner,64,South Lindseyville,NM,2026-05-11
+68,Andrea Snow,43,Patrickfort,OK,2026-05-29
+69,Stephen Reyes,68,East Eric,IA,2026-06-07
+70,Kathryn Avila,56,Cynthiaberg,MO,2026-06-20
+71,Brian Kim,43,East Mitchell,PA,2026-05-25
+72,Benjamin Lowe,38,Matthewchester,MN,2026-01-15
+73,Anna Green,39,New Isaac,TN,2026-06-04
+74,Sydney Scott,30,South Kenneth,OH,2026-03-24
+75,Robert Krause,57,Lake Antonio,KY,2026-01-04
+76,Shannon Evans,65,North Janiceside,NC,2026-04-14
+77,Tara Cain,60,New Williamton,ND,2026-06-07
+78,Michael Williams,51,West Matthewborough,PR,2026-04-18
+79,Janice Brown,56,West John,ME,2026-05-30
+80,Nathaniel Rivas,31,South Brittany,OH,2026-04-15
+81,Elijah Butler,64,Barnesbury,FL,2026-01-15
+82,Colleen Montes,20,Diazborough,NM,2026-05-25
+83,Sarah Smith,47,Lake Chloe,TX,2026-04-18
+84,Raymond Nelson,23,Laurentown,IN,2026-05-23
+85,Robert Reilly,36,Spearsfurt,CA,2026-06-08
+86,Leslie Jackson,67,Dillonchester,DC,2026-06-05
+87,Allison Watkins,23,West Jessica,TN,2026-04-13
+88,Jason Baker,54,East Monica,MD,2026-02-09
+89,Kimberly Harrington,52,Lake Heathermouth,NC,2026-03-21
+90,Angela King,19,North Michael,GU,2026-05-08
+91,Jessica Thompson,43,New Robertville,FM,2026-05-06
+92,Nicholas Nichols,52,Coffeyview,FL,2026-04-23
+93,Raymond Johnson,28,South Jeffreymouth,AL,2026-05-10
+94,Erin Miranda,23,South Natalieborough,AL,2026-02-25
+95,Michelle Haynes,31,Banksport,PW,2026-04-27
+96,Kirk Oliver,24,Hamptonville,TN,2026-05-14
+97,Judy Hayes,19,Port Ann,NH,2026-01-25
+98,Hannah Turner,68,West April,TN,2026-02-10
+99,Dillon Johnson,35,Woodwardchester,MH,2026-01-04
+100,Eduardo Anderson,66,Port Christinaborough,AZ,2026-03-29
